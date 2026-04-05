@@ -1,0 +1,1 @@
+# BLIX-Model-STL-File
